@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Colores párrafo 2</title>
+    <meta charset="utf-8">
+    <ul>
+        <li><a href="../Index.html">Unidad 4</a></li>
+    </ul>
+<style>
+    p[name]{
+        background: yellow;
+    }
+    p[name="párrafo2"] {
+        background: red
+    }
+    p[name~="est"] {
+        background: green;
+        }
+    p[name^="p4"] {
+        background: grey;
+    }
+    p[name$="p5"] {
+        background: purple;
+    }
+    p[name*="p6"] {
+        background: orange;
+    }
+</style>
+</head>
+<body>
+    <p name>P1</p>
+    <p name="párrafo2">P2</p>
+    <p name="est">Tempestad</p>
+    <p name="p4">P4</p>
+    <p name="p5">P5</p>
+    <p name="p6">P6</p>
+<header>
+    <h1></h1>
+
+</header>
+    </body>
+    </html>
