@@ -1,0 +1,8 @@
+<!ELEMENT agenda (persona+)>
+<!ELEMENT persona (nombre,tlf,tw?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tfn (#PCDATA)>
+<!ELEMENT tw (#PCDATA)>
+<!ELEMENT codigo (#PCDATA)>
+<!ATTLIST persona id ID (#Required)>
+]>

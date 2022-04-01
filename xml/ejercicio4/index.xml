@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<estadistica>
+    <dato1>
+        <pais>Francia</pais>
+        <poblacion>59.7M</poblacion>
+    </dato1>
+    <dato2>
+        <pais>Irlanda</pais>
+        <poblacion>3.8M</poblacion>
+    </dato2>
+    <dato3>
+        <pais>Brasil</pais>
+        <poblacion>176.0M</poblacion>
+    </dato3>
+</estadistica>

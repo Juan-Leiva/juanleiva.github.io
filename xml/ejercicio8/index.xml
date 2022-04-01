@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE agenda SYSTEM"ficheroagenda" [
+<agenda>
+    <persona id="ricardo">
+        <nombre>Ricardo Borriquero</nombre>
+        <tfn>951345679</tfn>
+        <tw></tw>
+    </persona>
+    <persona id="eva">
+        <nombre>Eva Risto</nombre>
+        <tfn>755837659</tfn>
+        <tw>@evaristo</tw>
+    </persona>
+</agenda>

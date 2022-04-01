@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ejercicios HTML</title>
+        <link>https://juan-leiva.github.io/juanleiva.github.io/</link>
+        <description>Ejercicios HTML de Juan Leiva</description>
+        <item>
+            <title>Ejercicio tabla coches HTML</title>
+            <link>https://juan-leiva.github.io/juanleiva.github.io/ejerciciosdeclase/unidad2/tablas/index.html</link>
+            <description>Muestra una tabla con distintos coches</description>
+        </item>
+        <item>
+            <title>Ejercicio lista de términos HTML</title>
+            <link>https://juan-leiva.github.io/juanleiva.github.io/ejerciciosdeclase/unidad2/listadeterminos/index.html</link>
+            <description>Una lista simple de Grados Superiores de Informática</description>
+        </item>
+        <item>
+            <title>Ejercicio horario HTML</title>
+            <link>https://juan-leiva.github.io/juanleiva.github.io/ejerciciosdeclase/unidad2/horario/index.html</link>
+            <description>Horario de 1º ASIR</description>
+        </item>
+        <item>
+            <title>Ejercicios formulario HTML</title>
+            <link>https://juan-leiva.github.io/juanleiva.github.io/ejerciciosdeclase/unidad2/formularios/index.html</link>
+            <description>Muestra dos enlaces a diferentes formularios</description>
+        </item>
+    </channel>
+</rss>

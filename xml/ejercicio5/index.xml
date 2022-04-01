@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE persona [
+<!ELEMENT persona (nombre,mayor_de_edad,ciudad)>
+<!ATTLIST persona forma_de_pago CDATA ="bizum">
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT mayor_de_edad EMPTY>
+<!ELEMENT ciudad (#PCDATA)>
+]>
+<persona forma_de_pago="bizum">
+    <nombre>Juan Leiva</nombre>
+    <mayor_de_edad/>
+     <ciudad>Huelva</ciudad>
+</persona>
